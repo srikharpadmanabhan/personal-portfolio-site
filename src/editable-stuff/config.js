@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/sri_image.png"),
   imageSize: 375,
   message:
-    "Hey! My name is Srikhar Padmanabhan and I’m a first year Master's student at the University of Chicago as part of the MPCS program. Before that, I was a TDP at Capital One in the San Francisco office from August 2023 to September 2024. I completed my undergraduate at the University of Michigan receiving a Bachelor's degree in Computer Science and Economics. I am passionate about software engineering, machine learning and its applications. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee",
+    "Hey! My name is Srikhar Padmanabhan and I am a recent graudate of the MPCS at the University of Chicago. Before that, I was a TDP at Capital One in the San Francisco office from August 2023 to September 2024. I completed my undergraduate at the University of Michigan receiving a Bachelor's degree in Computer Science and Economics. I am passionate about software engineering, machine learning and its applications. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
