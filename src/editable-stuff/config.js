@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/sri_image.png"),
   imageSize: 375,
   message:
-    "Hey! My name is Srikhar Padmanabhan and I am a recent graudate of the MPCS at the University of Chicago. Before that, I was a TDP at Capital One in the San Francisco office from August 2023 to September 2024. I completed my undergraduate at the University of Michigan receiving a Bachelor's degree in Computer Science and Economics. I am passionate about software engineering, machine learning and its applications. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee",
+    "Hey! My name is Srikhar Padmanabhan and I am a recent graudate of the MPCS at the University of Chicago. Previously, I was a TDP at Capital One in SF and a developer remotely at TrueLark before that. I completed my undergraduate at the University of Michigan receiving a Bachelor's degree in Computer Science and Economics. I am passionate about software engineering, machine learning and its applications. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -60,7 +60,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "srikharpadmanabhan", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["personal-portfolio-site", "react-website-first", "kaggle-duplicate-quora", "todo-list-and-recipe-application", "marvel-api-displayer"],
+  specificRepos: ["personal-portfolio-site", "kaggle-duplicate-quora", "advanced-data-analytics-hull-market-research"],
 };
 
 // Leadership SECTION
@@ -95,8 +95,8 @@ const skills = {
     { name: "Python", value: 93 },
     { name: "Data Structures", value: 99 },
     { name: "C/C++", value: 87 },
-    { name: "TensorFlow", value: 65 },
-    { name: "Keras", value: 70 },
+    { name: "TensorFlow", value: 80 },
+    { name: "Keras", value: 80 },
     { name: "JavaScript", value: 60 },
     { name: "React", value: 35 },
     { name: "HTML/CSS", value: 50 },
