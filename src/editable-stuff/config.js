@@ -60,7 +60,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "srikharpadmanabhan", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["personal-portfolio-site", "kaggle-duplicate-quora", "advanced-data-analytics-hull-market-research"],
+  specificRepos: ["personal-portfolio-site", "kaggle-duplicate-quora", "advanced-data-analytics-hull-market-research", "college-sports-radio-postgame-show-generator"],
 };
 
 // Leadership SECTION
